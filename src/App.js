@@ -75,4 +75,3 @@ class App extends React.Component{
  export default App;
 
 
- // change profile as profileAssigned and make it work
